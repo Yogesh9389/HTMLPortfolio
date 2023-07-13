@@ -1,6 +1,6 @@
 # Portfolio Website
 
-This repository contains the HTML source code for a portfolio website. The website is designed to showcase your work, skills, and projects to potential clients, employers, or collaborators.
+This repository contains the HTML source code for a portfolio website. This web site is created for learning purposes.
 
 ## Preview
 
